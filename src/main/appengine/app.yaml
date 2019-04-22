@@ -1,0 +1,8 @@
+runtime: java8
+
+service: default
+
+handlers:
+  - url: /.*
+    script: this field is required, but ignored
+
